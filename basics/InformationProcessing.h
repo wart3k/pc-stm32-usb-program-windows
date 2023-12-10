@@ -1,6 +1,8 @@
 #ifndef PC_STM32_USB_PROGRAM_WINDOWS_INFORMATION_PROCESSING_H
 #define PC_STM32_USB_PROGRAM_WINDOWS_INFORMATION_PROCESSING_H
 
+#include "Log.h"
+
 class InformationProcessing {
 public:
     InformationProcessing() = default;

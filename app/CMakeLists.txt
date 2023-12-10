@@ -13,5 +13,5 @@ add_executable(${EXECUTABLE_NAME}
 )
 
 target_link_libraries(${EXECUTABLE_NAME} PUBLIC
-        ${TERMINAL_LOGGER_NAME}
+        ${BASICS_LIB_NAME}
 )
